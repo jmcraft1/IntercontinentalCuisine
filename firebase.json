@@ -1,0 +1,67 @@
+{
+  "Customer" : {
+    "0" : {
+      "address" : "address",
+      "city" : "city",
+      "email" : "email",
+      "firstName" : "firstName",
+      "lastName" : "lastName",
+      "password" : "password",
+      "phone" : "phone",
+      "state" : "state",
+      "zip" : "zip"
+    }
+  },
+  "Driver" : {
+    "0" : {
+      "address" : "address",
+      "city" : "city",
+      "email" : "email",
+      "firstName" : "firstName",
+      "lastName" : "lastName",
+      "password" : "password",
+      "phone" : "phone",
+      "state" : "state",
+      "zip" : "zip"
+    }
+},
+  "Items" : {
+    "0" : {
+      "category" : "category",
+      "name" : "name",
+      "price" : "price",
+      "store" : "store"
+    }
+  },
+  "OrderBuilder" : [ {
+    "customer" : "customer",
+    "item" : "item",
+    "price" : "price",
+    "quantity" : "quantity",
+    "store" : "store"
+  } ],
+  "Orders" : {
+    "0" : {
+      "accepted" : "accepted",
+      "address" : "address",
+      "email" : "email",
+      "name" : "name",
+      "order" : "order",
+      "phone" : "phone",
+      "store" : "store",
+      "total" : "total"
+    }
+  },
+  "Store" : {
+    "0" : {
+      "address" : "address",
+      "city" : "city",
+      "email" : "email",
+      "name" : "name",
+      "password" : "password",
+      "phone" : "phone",
+      "state" : "state",
+      "zip" : "zip"
+    }
+  }
+}

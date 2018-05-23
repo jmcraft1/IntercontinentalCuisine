@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hyderabadhouse.hh.HomeActivity">
+
+    <item
+        android:id="@+id/action_account"
+        android:title="@string/acct"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_cart"
+        android:title="@string/cart"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_signOut"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orderInCategory="100"
+        android:title="@string/signOut"
+        app:showAsAction="never" />
+
+</menu>

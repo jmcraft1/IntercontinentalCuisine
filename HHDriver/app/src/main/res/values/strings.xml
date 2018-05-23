@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HHDriver</string>
+    <string name="but1_login">Log In</string>
+    <string name="but2_register">Register</string>
+    <string name="edit1_user">Phone Number</string>
+    <string name="edit_pass">Password</string>
+    <string name="but3_submit">Submit</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_register">Register</string>
+    <string name="act_settings">Action Settings</string>
+    <string name="slogan">Experience the taste of Hyderabad.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="acct">Account</string>
+    <string name="signOut">Sign Out</string>
+    <string name="cart">Cart</string>
+    <string name="home">Menu</string>
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_addy">Address</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_zip">Zip Code</string>
+    <string name="hint_phone">Phone Number xxx-xxx-xxxx</string>
+    <string name="hint_email">Email Address</string>
+    <string name="btn_orders">View Orders</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">HH</string>
+    <string name="but1_login">Log In</string>
+    <string name="but2_register">Register</string>
+    <string name="edit1_user">Phone Number</string>
+    <string name="edit_pass">Password</string>
+    <string name="but3_submit">Submit</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_register">Register</string>
+    <string name="act_settings">Action Settings</string>
+    <string name="slogan">Experience the taste of Hyderabad.</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+    <string name="btn_nonVeggie">Non-Vegetarian Entrees</string>
+    <string name="btn_vegetarian">Vegetarian Entrees</string>
+    <string name="btn_nonVeggieApps">Non-Vegetarian Appetizers</string>
+    <string name="btn_veggieApps">Vegetarian Appetizers</string>
+    <string name="btn_specials">Specials</string>
+    <string name="btn_sides">Sides</string>
+    <string name="btn_drinks">Beverages</string>
+    <string name="acct">Account</string>
+    <string name="signOut">Sign Out</string>
+    <string name="cart">Cart</string>
+    <string name="home">Menu</string>
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_addy">Address</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_zip">Zip Code</string>
+    <string name="hint_phone">Phone Number xxx-xxx-xxxx</string>
+    <string name="hint_email">Email Address</string>
+    <string name="img_drinks">Sapota Shake</string>
+    <string name="drink1">Sapota Shake</string>
+    <string name="chmasala">Chicken Masala</string>
+    <string name="goman">Gobi Manchurian</string>
+    <string name="gnaan">Garlic Naan</string>
+    <string name="natvep">Natukodi Vepudu</string>
+    <string name="chichi">Chilli Chicken</string>
+    <string name="maikof">Malai Kofta</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="hint_qty">Quantity</string>
+    <string name="instructions">Enter quantity here and click button above to add to cart</string>
+
+</resources>

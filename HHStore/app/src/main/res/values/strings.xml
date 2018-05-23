@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HHStore</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="btn_reg">Register Business</string>
+    <string name="slogan">Experience the Taste of Hyderabad</string>
+    <string name="hint_bname">Name of Business</string>
+    <string name="hint_addy">Address</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_zip">Zip Code</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_email">Email Address</string>
+    <string name="btn_register">Register</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_confirmPass">Confirm Password</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_add">Add an Item</string>
+    <string name="btn_del">Remove an Item</string>
+    <string name="btn_price">Change Price of an Item</string>
+    <string name="btn_orders">View Orders</string>
+    <string name="hint_itemName">Name of Item</string>
+    <string name="hint_price">Price</string>
+    <string name="btn_submit">Submit</string>
+    <string name="hint_cat">Category</string>
+</resources>

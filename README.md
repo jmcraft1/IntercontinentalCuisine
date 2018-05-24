@@ -18,3 +18,5 @@ You must link each app to the firebase database.
 15. Click on the menu button on the right side of the window, and hit import json.
 16. Download firebase.json from this repository and use that file to import to firebase project.
 The path for the google-services.json should be HH/app/google-services.json, HHStore/app/google-services.json, and HHDriver/app/google-services.json
+
+Demo video at https://www.youtube.com/watch?v=POSlJEfLIOo&t=5s

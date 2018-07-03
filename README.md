@@ -12,7 +12,7 @@ You must link each app to the firebase database.
 9. Click on register app.
 10. On the next screen, download google-services.json file,  and put this file in the app directory.
 11. At this point, you would alter the gradle files, but they are already altered when I commited them to this repository.
-12. Once the first app is add to the firebase database project, then gp tp the project overview and click add another app and repeat the process for the other two aps.
+12. Once the first app is added to the firebase database project, then go to the project overview and click add another app and repeat the process for the other two aps.
 13. Make sure each app has its own google-services.json file in the app folder.
 14. Click on the database tab on the left side of the firebase screen.
 15. Click on the menu button on the right side of the window, and hit import json.
